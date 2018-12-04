@@ -6,6 +6,24 @@ BIGTREE_IOT_Dashboard
 Description
 ----------------------------
 Basicly,we need to complete the following pages:
+/Users/junyi/IOT_Dashboard
+#git使用规范
+
+> 分支：
+>
+>------master 主分支
+>
+>---------|-dev 开发分支
+>
+>------------|- Junyi 钟俊毅本地开发分支
+>
+>------------|- Siva siva本地开发分支
+>
+>------------|- For team member
+
+
+
+
 
 Right side bar
 -------------------------------
